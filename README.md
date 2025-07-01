@@ -1,10 +1,12 @@
-👋 Hi, I’m William
-<!--- - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... --->
+# 👋 Ciao, sono William
 
-<!---
-williamraccagni/williamraccagni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Benvenuto/a nel mio profilo GitHub!
+
+🎓 Dopo due anni di esperienza come **Computer Vision Software Engineer**, attualmente svolgo attività di **ricerca sui Large Language Models (LLM)** presso il laboratorio [**AImageLab**](https://aimagelab.ing.unimore.it/) dell’**Università degli Studi di Modena e Reggio Emilia (UniMoRe)**.
+
+Il mio lavoro si colloca all’intersezione tra **deep learning**, **linguaggio naturale** e **visione artificiale**.
+
+---
+
+📫 Sentiti libero/a di contattarmi o curiosare tra i miei repository!
+
